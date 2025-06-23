@@ -1,0 +1,1 @@
+galleta_contador = 0;
